@@ -1,1 +1,1 @@
-# course1-cc-duke
+## This contains materials for course1 of cc-duke 
